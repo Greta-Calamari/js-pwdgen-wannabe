@@ -9,5 +9,13 @@ console.log(userFavoriteColor);
 
 
 
+document.getElementById('password').innerHTML 
 
 
+// a{richiesta nome}-->b[finestra dove scrivere il nome]
+// b-->c{richiesta cognome}
+// c-->e[finestra dove scrivere cognome]
+// e-->f{richiesta colore preferito}
+// f-->g[finestra dove scrivere il colore preferito]
+// g-->h[scrivere in html il mokup]
+// h-->i[fine lavoro]
