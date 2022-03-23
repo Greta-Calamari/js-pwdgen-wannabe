@@ -8,6 +8,6 @@ let userFavoriteColor = prompt("Qual'è il tuo colore preferito");
 console.log(userFavoriteColor);
 
 
-document.getElementById('password') = userName + userSurname + userFavoriteColor;
+
 
 
